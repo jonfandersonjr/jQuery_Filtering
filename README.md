@@ -1,2 +1,3 @@
 # jQuery_Filtering
-A project which takes data and uses JavaScript to build a table and multiple charts representing the data. Additionally uses jQuery to filter results and modify charts. Completed at the University of Washington Tacoma as a project for CSS 460 - Client Server Development
+
+For this project, we were given the HTML and CSS for the page design and were asked to interpret given data using JavaScript. All logic for filters and display was implemented and added to existing code.
